@@ -5,6 +5,7 @@
 ![](/Screenshot_464.png)
 
 The website is a flask app, and every new monday it picks a movie from the initial list randomly.
+
 This movie is then removed from the list, the current.txt file is updated with the title of this
 new movie and the seen.txt is updated with the date of the pick.
 
