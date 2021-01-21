@@ -1,7 +1,8 @@
 # FilmOfTheWeek
 
 *The website corresponding to this project is [here](http://www.film.helene-p.fr/)*
-![image of the result](/screenshot_464.png)
+
+![image of the result](/Screenshot_464.png | width=200)
 
 The website is a flask app, and every new monday it picks a movie from the initial list randomly.
 This movie is then removed from the list, the current.txt file is updated with the title of this
